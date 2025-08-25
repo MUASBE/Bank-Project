@@ -1,1 +1,2 @@
-
+This will be Client's File 
+We will assume this file as a database
